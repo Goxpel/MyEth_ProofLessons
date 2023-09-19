@@ -24,7 +24,7 @@ To run and interact with this program, you can use Remix, an online Solidity Int
 
 7. Interact with the contract by calling the 'mint' and 'burn' functions and reading the public variables (i.e., name, symbol, totalSupply, and balances of the token).
 
-   - To mint tokens: Click on the "IgbaniToken" contract in the left-hand sidebar, and then click on the down caret icon on the "mint" function button to input the required variables. Finally, click on the "transact" button to execute the minting function with the specified amount of Kaizen tokens.
+   - To mint tokens: Click on the "IgbaniToken" contract in the left-hand sidebar, and then click on the down caret icon on the "mint" function button to input the required variables. Finally, click on the "transact" button to execute the minting function with the specified amount of Igbani tokens.
 
    - To burn tokens: Repeat the process above for the 'burn' function.
 
