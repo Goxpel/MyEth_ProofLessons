@@ -18,7 +18,7 @@ To run and interact with this program, you can use Remix, an online Solidity Int
 
 4. Copy and paste the provided Solidity code in the link https://github.com/Goxpel/MyEth_ProofLessons/blob/main/IgbaniToken.sol and paste into the newly created file.
 
-5. Compile the code by clicking on the "Solidity Compiler" tab in the left-hand sidebar. Ensure that the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile KaizenToken.sol" button.
+5. Compile the code by clicking on the "Solidity Compiler" tab in the left-hand sidebar. Ensure that the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile IgbaniToken.sol" button.
 
 6. Deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "IgbaniToken" contract from the dropdown menu and click on the "Deploy" button.
 
@@ -33,7 +33,7 @@ To run and interact with this program, you can use Remix, an online Solidity Int
 ## Author
 
 - Gospel
-  - GitHub: [@Prince0x01](https://github.com/Prince0x01)
+  - GitHub: [@Goxpel](https://github.com/Goxpel)
 
 ## License
 
